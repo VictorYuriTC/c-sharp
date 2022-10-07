@@ -1,0 +1,13 @@
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.csprojAssemblyReference.cache
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.AssemblyInfoInputs.cache
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.AssemblyInfo.cs
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.csproj.CoreCompileInputs.cache
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/bin/Debug/netcoreapp3.1/VariablesAndBasicTypes
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/bin/Debug/netcoreapp3.1/VariablesAndBasicTypes.deps.json
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/bin/Debug/netcoreapp3.1/VariablesAndBasicTypes.runtimeconfig.json
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/bin/Debug/netcoreapp3.1/VariablesAndBasicTypes.runtimeconfig.dev.json
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/bin/Debug/netcoreapp3.1/VariablesAndBasicTypes.dll
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/bin/Debug/netcoreapp3.1/VariablesAndBasicTypes.pdb
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.dll
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.pdb
+/home/victor/personal-projects/c#/3-sequential-structure/VariablesAndBasicTypes/obj/Debug/netcoreapp3.1/VariablesAndBasicTypes.genruntimeconfig.cache
