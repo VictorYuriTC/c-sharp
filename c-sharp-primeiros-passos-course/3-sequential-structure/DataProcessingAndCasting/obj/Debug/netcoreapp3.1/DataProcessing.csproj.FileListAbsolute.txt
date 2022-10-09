@@ -17,10 +17,11 @@
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/bin/Debug/netcoreapp3.1/DataProcessing.runtimeconfig.dev.json
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/bin/Debug/netcoreapp3.1/DataProcessing.dll
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/bin/Debug/netcoreapp3.1/DataProcessing.pdb
-/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.csprojAssemblyReference.cache
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.AssemblyInfoInputs.cache
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.AssemblyInfo.cs
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.csproj.CoreCompileInputs.cache
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.dll
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.pdb
 /home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.genruntimeconfig.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.csproj.AssemblyReference.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/Debug/netcoreapp3.1/DataProcessing.GeneratedMSBuildEditorConfig.editorconfig

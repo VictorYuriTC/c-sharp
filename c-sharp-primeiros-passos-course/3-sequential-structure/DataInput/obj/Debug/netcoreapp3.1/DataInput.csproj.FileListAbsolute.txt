@@ -1,0 +1,14 @@
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/bin/Debug/netcoreapp3.1/DataInput
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/bin/Debug/netcoreapp3.1/DataInput.deps.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/bin/Debug/netcoreapp3.1/DataInput.runtimeconfig.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/bin/Debug/netcoreapp3.1/DataInput.runtimeconfig.dev.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/bin/Debug/netcoreapp3.1/DataInput.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/bin/Debug/netcoreapp3.1/DataInput.pdb
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.csproj.AssemblyReference.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.AssemblyInfoInputs.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.AssemblyInfo.cs
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.csproj.CoreCompileInputs.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.pdb
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/Debug/netcoreapp3.1/DataInput.genruntimeconfig.cache

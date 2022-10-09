@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/oHzJGJkGcPO8Td5R60QtBDGxM1oZ8Akr5q44I+KiodS+OxiBiuLCJeQBrzoRNFcVbDahM08vWN6xFz0sH8QwA==",
+  "dgSpecHash": "x1vRg8ELWiC7y0k/1/OQyhte0fsa0LGY0ymD60+jlAvAScCecrCi6nvuFFrUzKef3u5nLxXtNqFOR+j5q8Y4Kg==",
   "success": true,
   "projectFilePath": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/DataProcessing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/victor/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.25/microsoft.netcore.app.host.linux-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

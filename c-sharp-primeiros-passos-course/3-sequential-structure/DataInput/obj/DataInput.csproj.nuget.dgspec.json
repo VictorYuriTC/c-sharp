@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/DataProcessing.csproj": {}
+    "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/DataInput.csproj": {}
   },
   "projects": {
-    "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/DataProcessing.csproj": {
+    "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/DataInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/DataProcessing.csproj",
-        "projectName": "DataProcessing",
-        "projectPath": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/DataProcessing.csproj",
+        "projectUniqueName": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/DataInput.csproj",
+        "projectName": "DataInput",
+        "projectPath": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/DataInput.csproj",
         "packagesPath": "/home/victor/.nuget/packages/",
-        "outputPath": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataProcessingAndCasting/obj/",
+        "outputPath": "/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInput/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
