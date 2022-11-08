@@ -1,0 +1,16 @@
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/DataInputLesson2
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/DataInputLesson2.deps.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/DataInputLesson2.runtimeconfig.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/DataInputLesson2.runtimeconfig.dev.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/DataInputLesson2.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/ref/DataInputLesson2.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/bin/Debug/net5.0/DataInputLesson2.pdb
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.csproj.AssemblyReference.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.AssemblyInfoInputs.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.AssemblyInfo.cs
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.csproj.CoreCompileInputs.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/ref/DataInputLesson2.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.pdb
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/DataInputLesson2/obj/Debug/net5.0/DataInputLesson2.genruntimeconfig.cache
