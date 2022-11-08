@@ -1,0 +1,16 @@
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.csproj.AssemblyReference.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.AssemblyInfoInputs.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.AssemblyInfo.cs
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.csproj.CoreCompileInputs.cache
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/MathematicalFunctions
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/MathematicalFunctions.deps.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/MathematicalFunctions.runtimeconfig.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/MathematicalFunctions.runtimeconfig.dev.json
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/MathematicalFunctions.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/ref/MathematicalFunctions.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/bin/Debug/net5.0/MathematicalFunctions.pdb
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/ref/MathematicalFunctions.dll
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.pdb
+/home/victor/personal-projects/c-sharp/c-sharp-primeiros-passos-course/3-sequential-structure/MathematicalFunctions/obj/Debug/net5.0/MathematicalFunctions.genruntimeconfig.cache
